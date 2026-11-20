@@ -63,5 +63,5 @@ This project turns raw sales data into a one-page business dashboard. It tracks 
 
 
 ## 👤 Author
-**Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+**Nikhil Jangir**
+
